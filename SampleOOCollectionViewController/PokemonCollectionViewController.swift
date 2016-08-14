@@ -2,8 +2,8 @@
 //  PokemonCollectionViewController.swift
 //  SampleOOCollectionViewController
 //
-//  Created by Tubitak YTE on 15/08/16.
-//  Copyright © 2016 armasoftwaresolutions. All rights reserved.
+//  Created by feanor07 on 15/08/16.
+//  Copyright © 2016 feanor07. All rights reserved.
 //
 
 import UIKit
@@ -53,7 +53,6 @@ class PokemonCollectionViewController: UICollectionViewController {
     }
 
     override func numberOfSectionsInCollectionView(collectionView: UICollectionView) -> Int {
-        // #warning Incomplete implementation, return the number of sections
         return pokemonClasses.count
     }
 

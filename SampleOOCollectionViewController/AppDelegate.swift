@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  SampleOOCollectionViewController
 //
-//  Created by Tubitak YTE on 14/08/16.
-//  Copyright © 2016 armasoftwaresolutions. All rights reserved.
+//  Created by feanor07 on 14/08/16.
+//  Copyright © 2016 feanor07. All rights reserved.
 //
 
 import UIKit
